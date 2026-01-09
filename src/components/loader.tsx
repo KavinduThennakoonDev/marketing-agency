@@ -72,7 +72,7 @@ export function Loader({ onComplete }: { onComplete: () => void }) {
                 ref={textRef}
                 className="font-display text-4xl font-bold tracking-widest text-white opacity-0 md:text-8xl"
             >
-                ELEVATE
+                NextWave
             </h1>
             <div className="mt-8 w-64 overflow-hidden bg-white/10 h-1">
                 <div
